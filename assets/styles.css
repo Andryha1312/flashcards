@@ -1,9 +1,9 @@
 :root {
-    --text-color: #E0F7FA;          /* Cor clara de texto, próxima do azul claro */
-    --card-front-color: rgba(0, 96, 128, 0.7);  /* Azul escuro translúcido para a frente do cartão */
-    --card-back-color: #00ACC1;     /* Azul turquesa mais vibrante para o verso do cartão */
-    --footer-bg-color: #004D40;     /* Verde azulado escuro para o rodapé */
-    --footer-text-color: #B2DFDB;   /* Azul claro esverdeado para o texto do rodapé */
+    --text-color: #ffffff;         
+    --card-front-color: rgba(87, 0, 128, 0.7);  
+    --card-back-color: #bb00c1;    
+    --footer-bg-color: #38094e;     
+    --footer-text-color: #793b91;   
 }
 
 body {
@@ -23,7 +23,7 @@ body {
 }
 
 .cartao {
-    background-color: var(--card-front-color); /* Fundo translúcido da frente do cartão */
+    background-color: var(--card-front-color);
     backdrop-filter: blur(10px);                
     border: 1px solid var(--text-color);                  
     margin: 1rem 1rem;                      

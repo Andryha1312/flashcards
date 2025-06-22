@@ -1,67 +1,49 @@
 criarCartao(
-    "Categoria",    
-    "Pergunta",  
-    "Resposta" 
+    "Pierce the veil",    
+    "quam a musica mais famosa do ptv?",  
+    "King for a day" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "My chemical romance",    
+    "em que ano o mcr foi formado?",  
+    "2001" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Paramore",    
+    "Qual foi a primeira musica lançada pelo paramore?",  
+    "Conspiracy" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Evanescence",    
+    "Quem é a vocalista do Evanescence?",  
+    "Amy Lee" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "She wants revenge",    
+    "em que cidade/estado o she wants revenge foi formado?",  
+    "Los Angeles, califórnia" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Get Scared",    
+    "Qual o genero Musical do Get Scared?",  
+    "post-hardcore, mas com influências de outros estilos como emo, rock alternativo e metalcore." 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "sleeping with sirens",    
+    "Quantas albuns tem o sleeping with sirens?",  
+    "7 albuns"
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
-);
-
-criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
-);
-
-criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
-);
-
-criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Chase Atlantic",    
+    "Quem é o membro mais novo do chase atlantic?",  
+    "Christian Anthony" 
 );
 
 document.querySelectorAll('#container .cartao').forEach(cartao => {
